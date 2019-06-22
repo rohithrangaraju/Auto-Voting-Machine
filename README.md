@@ -1,4 +1,4 @@
-Voting Machine
+**Voting Machine**
 
 _This project is about generating election participants and elect them using application(randomly) or by the user._
 
