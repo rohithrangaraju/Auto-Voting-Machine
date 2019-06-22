@@ -1,21 +1,21 @@
-##Voting Machine
+Voting Machine
 
 _This project is about generating election participants and elect them using application(randomly) or by the user._
 
-**PROJET SETUP**
+**PROJECT SETUP**
 
-######**First install necessary requirements from requirements.txt**
+**First install necessary requirements from requirements.txt**
 `pip install -r requirements.txt`
 
-######**Generate no of pariticipants for the election**
+**Generate no of pariticipants for the election**
 `python candidate_generator.py candidates=<no_of_candidates>`
 
 `Example: python candidate_generator.py candidates=10`
 All the candidates are generated in sequential manner 1 to no_of_candidates
-######**Start the application**
+**Start the application**
 `python VotingMachine.py`
 
-######**Necessary URLs**
+**Necessary URLs**
 To initiate the elections call the coordinator api using browser or postman(GET REQUEST)
 
 `http://127.0.0.1:5000/coordinator`
