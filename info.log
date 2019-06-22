@@ -1,0 +1,22 @@
+2019-04-18 06:50:27,649 INFO Generated a XRJCSQ election number
+2019-04-18 06:50:27,650 INFO Coordinator API called and new election ID is XRJCSQ and random selected candidate from total 10 candidates is 7
+2019-04-18 06:50:27,664 INFO Internal API called with candidate ID 1 and this candidate choose 3 candidate ID
+2019-04-18 06:50:27,786 INFO Internal API called with candidate ID 10 and this candidate choose 3 candidate ID
+2019-04-18 06:50:27,878 INFO Internal API called with candidate ID 3 and this candidate choose 1 candidate ID
+2019-04-18 06:50:27,970 INFO Internal API called with candidate ID 8 and this candidate choose 1 candidate ID
+2019-04-18 06:50:28,052 INFO Internal API called with candidate ID 2 and this candidate choose 4 candidate ID
+2019-04-18 06:50:28,118 INFO Internal API called with candidate ID 4 and this candidate choose 10 candidate ID
+2019-04-18 06:50:28,193 INFO Internal API called with candidate ID 9 and this candidate choose 8 candidate ID
+2019-04-18 06:50:28,282 INFO Internal API called with candidate ID 5 and this candidate choose 5 candidate ID
+2019-04-18 06:50:28,391 INFO Internal API called with candidate ID 6 and this candidate choose 10 candidate ID
+2019-04-18 06:53:18,889 INFO Generated a L3T9B7 election number
+2019-04-18 06:53:18,889 INFO Coordinator API called and new election ID is L3T9B7 and random selected candidate from total 10 candidates is 5
+2019-04-18 06:53:19,157 INFO Internal API called with candidate ID 9 and this candidate choose 1 candidate ID
+2019-04-18 06:53:19,263 INFO Internal API called with candidate ID 7 and this candidate choose 3 candidate ID
+2019-04-18 06:53:19,398 INFO Internal API called with candidate ID 2 and this candidate choose 6 candidate ID
+2019-04-18 06:53:19,494 INFO Internal API called with candidate ID 1 and this candidate choose 4 candidate ID
+2019-04-18 06:53:19,587 INFO Internal API called with candidate ID 4 and this candidate choose 8 candidate ID
+2019-04-18 06:53:19,711 INFO Internal API called with candidate ID 6 and this candidate choose 5 candidate ID
+2019-04-18 06:53:19,793 INFO Internal API called with candidate ID 10 and this candidate choose 9 candidate ID
+2019-04-18 06:53:19,878 INFO Internal API called with candidate ID 8 and this candidate choose 9 candidate ID
+2019-04-18 06:53:19,989 INFO Internal API called with candidate ID 3 and this candidate choose 3 candidate ID
